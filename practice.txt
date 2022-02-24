@@ -2,3 +2,6 @@
 수정2
 수정3
 수정4
+수정5 commit -a -m ""
+수정6 commit message is important
+수정7 왜 변화를 감지못하지?
